@@ -1,6 +1,7 @@
 {
   "recommendations": [
-    "Vue.volar",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next",
     "vitest.explorer",
     "dbaeumer.vscode-eslint",
     "EditorConfig.EditorConfig",
